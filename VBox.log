@@ -1,0 +1,15 @@
+VirtualBox VM 5.1.28 r117968 win.amd64 (Sep 13 2017 10:02:48) release log
+00:00:01.781781 Log opened 2019-04-03T16:33:06.396292100Z
+00:00:01.781783 Build Type: release
+00:00:01.781787 OS Product: Windows 10
+00:00:01.781789 OS Release: 10.0.10586
+00:00:01.781790 OS Service Pack: 
+00:00:01.859946 DMI Product Name: HP EliteBook 820 G1
+00:00:01.865804 DMI Product Version: A3009DD10303
+00:00:01.865836 Host RAM: 3993MB (3.8GB) total, 2737MB (2.6GB) available
+00:00:01.865840 Executable: C:\Program Files\Oracle\VirtualBox\VirtualBox.exe
+00:00:01.865840 Process ID: 5028
+00:00:01.865841 Package type: WINDOWS_64BITS_GENERIC
+00:00:01.866385 ERROR [COM]: aRC=VBOX_E_FILE_ERROR (0x80bb0004) aIID={872da645-4a9b-1727-bee2-5585105b9eed} aComponent={ConsoleWrap} aText={VM cannot start because the saved state file 'C:\Users\HP\Desktop\pshots\2019-04-03T15-46-52-765866200Z.sav' is invalid (VERR_PATH_NOT_FOUND). Delete the saved state prior to starting the VM}, preserve=false aResultDetail=0
+00:00:01.867117 GUI: Aborting startup due to power up issue detected...
+00:00:01.867407 GUI: UIMediumEnumerator: Medium-enumeration finished!
